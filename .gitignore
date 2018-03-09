@@ -1,1 +1,4 @@
 .idea/
+.pytest_cache
+./python/.pytest_cache
+python/__pycache__/dbconnection.cpython-35.pyc
